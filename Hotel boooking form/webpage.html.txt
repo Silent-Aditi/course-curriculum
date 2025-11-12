@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Resume</title>
+</head>
+<body>
+    <h1>Resume</h1>
+
+    <ol>
+        <li id="name">Name: HARI KA GUPTA</li>
+        <li id="address">Address: 837/1 SHANTIPURAM, LALKURTI, GHAZIABAD</li>
+        <li id="education" class="education">
+            Education:
+            <ul>
+                <li>12th pass out from National Public School</li>
+                <li>B.Tech from ABES Engineering College</li>
+            </ul>
+        </li>
+    </ol>
+
+    <p>Know C++ language, done coding on CodeChef; master in DSA.</p>
+</body>
+</html>
